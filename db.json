@@ -1,0 +1,304 @@
+{
+  "weathers": [
+    {
+      "coord": {
+        "lon": -0.13,
+        "lat": 51.51
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 282.34,
+        "feels_like": 279.43,
+        "temp_min": 282.04,
+        "temp_max": 283.15,
+        "pressure": 1023,
+        "humidity": 76
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.6,
+        "deg": 230
+      },
+      "clouds": {
+        "all": 44
+      },
+      "dt": 1589693953,
+      "sys": {
+        "type": 1,
+        "id": 1414,
+        "country": "GB",
+        "sunrise": 1589688320,
+        "sunset": 1589744925
+      },
+      "timezone": 3600,
+      "id": 2643743,
+      "name": "London",
+      "cod": 200
+    },
+    {
+      "coord": {
+        "lon": 72.85,
+        "lat": 19.01
+      },
+      "weather": [
+        {
+          "id": 721,
+          "main": "Haze",
+          "description": "haze",
+          "icon": "50d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 306.15,
+        "feels_like": 310.05,
+        "temp_min": 306.15,
+        "temp_max": 306.15,
+        "pressure": 1007,
+        "humidity": 63
+      },
+      "visibility": 4000,
+      "wind": {
+        "speed": 3.6,
+        "deg": 310
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1589694002,
+      "sys": {
+        "type": 1,
+        "id": 9052,
+        "country": "IN",
+        "sunrise": 1589675610,
+        "sunset": 1589722603
+      },
+      "timezone": 19800,
+      "id": 1275339,
+      "name": "Mumbai",
+      "cod": 200
+    },
+    {
+      "coord": {
+        "lon": 77.22,
+        "lat": 28.67
+      },
+      "weather": [
+        {
+          "id": 721,
+          "main": "Haze",
+          "description": "haze",
+          "icon": "50d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 309.15,
+        "feels_like": 308.76,
+        "temp_min": 309.15,
+        "temp_max": 309.15,
+        "pressure": 1005,
+        "humidity": 26
+      },
+      "visibility": 2500,
+      "wind": {
+        "speed": 2.1,
+        "deg": 190
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1589694303,
+      "sys": {
+        "type": 1,
+        "id": 9165,
+        "country": "IN",
+        "sunrise": 1589673550,
+        "sunset": 1589722566
+      },
+      "timezone": 19800,
+      "id": 1273294,
+      "name": "Delhi",
+      "cod": 200
+    },
+    {
+      "coord": {
+        "lon": 81.85,
+        "lat": 25.45
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 315.8,
+        "feels_like": 311.51,
+        "temp_min": 315.8,
+        "temp_max": 315.8,
+        "pressure": 1002,
+        "humidity": 10,
+        "sea_level": 1002,
+        "grnd_level": 992
+      },
+      "wind": {
+        "speed": 4.39,
+        "deg": 303
+      },
+      "clouds": {
+        "all": 0
+      },
+      "dt": 1589694610,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1589672796,
+        "sunset": 1589721097
+      },
+      "timezone": 19800,
+      "id": 1278994,
+      "name": "Allahabad",
+      "cod": 200
+    },
+    {
+      "coord": {
+        "lon": 78.47,
+        "lat": 17.38
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 306.04,
+        "feels_like": 308.62,
+        "temp_min": 305.15,
+        "temp_max": 307.15,
+        "pressure": 1010,
+        "humidity": 49
+      },
+      "visibility": 6000,
+      "wind": {
+        "speed": 2.1,
+        "deg": 260
+      },
+      "clouds": {
+        "all": 75
+      },
+      "dt": 1589694073,
+      "sys": {
+        "type": 1,
+        "id": 9214,
+        "country": "IN",
+        "sunrise": 1589674418,
+        "sunset": 1589721098
+      },
+      "timezone": 19800,
+      "id": 1269843,
+      "name": "Hyderabad",
+      "cod": 200
+    },
+    {
+      "coord": {
+        "lon": 74.08,
+        "lat": 15.33
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 305.15,
+        "feels_like": 306.78,
+        "temp_min": 305.15,
+        "temp_max": 305.15,
+        "pressure": 1007,
+        "humidity": 66
+      },
+      "visibility": 6000,
+      "wind": {
+        "speed": 6.7,
+        "deg": 320
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1589697428,
+      "sys": {
+        "type": 1,
+        "id": 9233,
+        "country": "IN",
+        "sunrise": 1589675663,
+        "sunset": 1589721960
+      },
+      "timezone": 19800,
+      "id": 1271157,
+      "name": "Goa",
+      "cod": 200
+    },
+    {
+      "coord": {
+        "lon": 80.92,
+        "lat": 26.85
+      },
+      "weather": [
+        {
+          "id": 721,
+          "main": "Haze",
+          "description": "haze",
+          "icon": "50d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 313.15,
+        "feels_like": 308.8,
+        "temp_min": 313.15,
+        "temp_max": 313.15,
+        "pressure": 1000,
+        "humidity": 15
+      },
+      "visibility": 5000,
+      "wind": {
+        "speed": 5.7,
+        "deg": 300
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1589714256,
+      "sys": {
+        "type": 1,
+        "id": 9176,
+        "country": "IN",
+        "sunrise": 1589672867,
+        "sunset": 1589721473
+      },
+      "timezone": 19800,
+      "id": 1264733,
+      "name": "Lucknow",
+      "cod": 200
+    }
+  ]
+}
